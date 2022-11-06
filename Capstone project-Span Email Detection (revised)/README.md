@@ -1,4 +1,4 @@
-Spam_Email_Detector
+***Spam_Email_Detector***
 
 Spam emails such as phishing and advertisements cost businesses and individuals millions of dollars annually.
 
